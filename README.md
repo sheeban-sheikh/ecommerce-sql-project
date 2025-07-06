@@ -71,7 +71,7 @@ The project uses 3 relational tables:
 Aspiring Data Analyst | SQL Enthusiast 
 📧 [work.sheeban@gmail.com](mailto:work.sheeban@gmail.com)  
 🌐 LinkedIn: https://www.linkedin.com/in/sheeban-sheikh-3598b12b7 
-📂 GitHub: *(Add your repo link after upload)*
+📂 GitHub: https://github.com/sheeban-sheikh/ecommerce-sql-project.git
 
 ---
 
