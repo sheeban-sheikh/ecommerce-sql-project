@@ -1,3 +1,6 @@
+
+<img src="https://github.com/sheeban-sheikh/ecommerce-sql-project/blob/main/banner.png.png" />
+
 # 🛒 E-Commerce Sales Analysis Using SQL
 
 This project showcases the use of SQL to analyze a simulated e-commerce database and extract actionable business insights. It includes two sets of SQL questions — one based on interview-style logic and another based on real company-level problem-solving.
