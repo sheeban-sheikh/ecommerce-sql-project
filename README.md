@@ -64,7 +64,12 @@ The project uses 3 relational tables:
 3. Study results and tweak the queries to learn more insights.
 
 ---
+## 🔗 Related Project
 
+📊 Check out the **Power BI Dashboard** built from similar mock data:  
+👉 [E-Commerce Sales Dashboard (Power BI)](https://github.com/sheeban-sheikh/ecommerce-powerbi-dashboard.git)
+
+---
 ## 📄 Author
 
 **Sheeban Sheikh**  
